@@ -8,5 +8,5 @@ Some very usefull vim commands every vim users should know.
 ```
   or
 ```
-%s/^n//g
+%s/^\n//g
 ```
