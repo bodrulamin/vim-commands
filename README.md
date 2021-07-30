@@ -2,11 +2,11 @@
 Some very usefull vim commands every vim users should know.
 
 
-## remove all empty lines
+## 1. remove all empty lines
 ```
 :g/^$/d
 ```
-or
+  or
 ```
 %s/^n//g
 ```
